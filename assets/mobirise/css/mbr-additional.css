@@ -484,22 +484,6 @@ h6,
 #social-buttons4-c .btn-social {
   color: #fff;
 }
-#contacts5-g p,
-#contacts5-g .list-group-text,
-#contacts5-g .form-control-label {
-  color: #000;
-}
-#contacts5-g strong,
-#contacts5-g h4 {
-  color: #7e9b9f;
-}
-#contacts5-g form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-g .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-g .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+#form1-h .form-control-label {
+  color: #232323;
 }
