@@ -682,7 +682,7 @@
           },
           "text1": "<strong>Address</strong><br>Metro Manila, Philippines",
           "text2": "<strong>Contacts</strong><br>\nEmail: tine.salangsang@gmail.com<br>\nPhone: +63 917 563 1841",
-          "text3": "<a href=\"cookie.html\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
+          "text3": "<a href=\"terms.html\" target=\"_blank\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
           "_tags": [
             "Theme"
           ],
@@ -880,7 +880,7 @@
           },
           "text1": "<strong>Address</strong><br>Metro Manila, Philippines",
           "text2": "<strong>Contacts</strong><br>\nEmail: tine.salangsang@gmail.com<br>\nPhone: +63 917 563 1841",
-          "text3": "<a href=\"cookie.html\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
+          "text3": "<a href=\"terms.html\" target=\"_blank\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
           "_tags": [
             "Theme"
           ],
@@ -1078,7 +1078,7 @@
           },
           "text1": "<strong>Address</strong><br>Metro Manila, Philippines",
           "text2": "<strong>Contacts</strong><br>\nEmail: tine.salangsang@gmail.com<br>\nPhone: +63 917 563 1841",
-          "text3": "<a href=\"cookie.html\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
+          "text3": "<a href=\"terms.html\" target=\"_blank\">Privacy Policy</a><br><a href=\"terms.html\">Terms and Conditions</a>",
           "_tags": [
             "Theme"
           ],
