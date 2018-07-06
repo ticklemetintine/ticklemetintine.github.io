@@ -30,8 +30,8 @@
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html' target=\"_blank\">cookie policy</a>.",
-    "gdpr": "By continiung you agree to our <a href='terms.html' target=\"_blank\">Terms of Service</a> and <a href='privacy.html' target=\"_blank\">Privacy Policy</a>.",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html' target='_blank'>cookie policy</a>.",
+    "gdpr": "By continiung you agree to our <a href='terms.html' target='_blank'>Terms of Service</a> and <a href='privacy.html' target='_blank'>Privacy Policy</a>.",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109998230-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-109998230-2');\r\n</script>",
     "siteUrl": "undefined"
   },
