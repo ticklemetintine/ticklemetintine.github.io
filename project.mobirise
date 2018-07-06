@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "cookie.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -909,7 +909,7 @@
         }
       ]
     },
-    "cookie.html": {
+    "privacy.html": {
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Cookie",
