@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "privacy.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -345,7 +345,7 @@
             "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -405,13 +405,14 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-07-06-at-1.34.10-pm-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2018-07-10-at-1.19.46-pm-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "link": "https://studioexperience.abs-cbn.com/",
+              "alt": "Studio Experience",
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "media6": {
@@ -434,8 +435,8 @@
           "title4": "MYX Music Awards 2018",
           "subtitle4": "AngularJS | HTML | Sass | jQuery",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Push Awa",
-          "subtitle5": "Choose from the large selection of blocks",
+          "title5": "ABS-CBN Studio Experience",
+          "subtitle5": "HTML | Sass | jQuery | AJAX",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
@@ -444,7 +445,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"http://queenmother.abs-cbn.com/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Site</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://music.abs-cbn.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Site</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://myx.abs-cbn.com/myxmusicawards/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View Site</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">View Site</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
